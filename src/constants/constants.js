@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: "Meadnear.com Clone",
+    title: "Mednear.com Clone",
     description:
       "MedNear is the Primary Online Pharmacy in India provides prescription, medicines all over the India.",
     image: "/images/1.png",
