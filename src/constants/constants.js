@@ -1,12 +1,12 @@
 export const projects = [
   {
-    title: "Mednear.com Clone",
+    title: "YouTube Clone",
     description:
-      "MedNear is the Primary Online Pharmacy in India provides prescription, medicines all over the India.",
+      "YouTube is an American online video sharing and social media platform owned by Google.",
     image: "/images/1.png",
-    tags: ["HTML", "CSS", "Javascript"],
-    source: "https://github.com/vishnudutta1/Mednear",
-    visit: "#",
+    tags: ["HTML", "CSS", "Javascript" ,"API"],
+    source: "https://github.com/vishnudutta1/youtube",
+    visit: "https://youtube-teal.vercel.app/",
     id: 0,
   },
   {
